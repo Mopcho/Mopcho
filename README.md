@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./goldroger.jpg" />
+  <img src="./goldroger.jpg" height="350px" />
 </p>
 
 <h2 align="center">
