@@ -29,6 +29,7 @@
 
 ### Technologies & Frameworks
 [![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://github.com/Mopcho)
+[![Postgres](https://img.shields.io/badge/postgres-000000?style=for-the-badge&logo=postgres&logoColor=white)](https://github.com/Mopcho)
 [![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)](https://github.com/Mopcho)
 [![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)](https://hub.docker.com/u/Mopcho)
 [![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)](https://hub.docker.com/u/Mopcho)
