@@ -2,7 +2,7 @@
   <img src="./goldroger.jpg" />
 </p>
 
-<p>
+<h2>
   - "My experience and projects? If you want it, I'll let you have it...search for it! I left all of it <a href="https://github.com/Mopcho?tab=repositories">at that place</a>."
-</p>
+</h2>
 
